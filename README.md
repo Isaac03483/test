@@ -2,4 +2,4 @@
 
 ## Output
 
-[](image.png)
+![mi imagen](image.png)
